@@ -31,26 +31,3 @@ fn main(
 
     nullifier
 }
-
-// fn main(
-//     move: u32,
-//     secret: Field,
-// ) -> pub Field {
-//     let secret_hash = std::hash::pedersen([secret])[0];
-//     std::println(secret_hash);
-
-//     let move_commitment = std::hash::pedersen([move as Field])[0];
-//     std::println(move_commitment);
-
-//     let mut card = move % 6;
-//     if (card == 0) {
-//         card = 6;
-//     }
-
-//     let mut nullifier_input = [0; 2];
-//     nullifier_input[0] = card as Field;
-//     nullifier_input[1] = secret;
-//     let nullifier = std::hash::pedersen(nullifier_input)[0];
-//     std::println(nullifier);
-//     nullifier
-// }
