@@ -1,0 +1,6 @@
+secret = "0xf346100e892553DcEb41A927Fb668DA7B0b7C964"
+secret_hash = "0x08040e93139b1bb9070578e3c53bc39c37a68825066601c9d31f6d58b2cb001f"
+move = 331
+move_commitment = "0x187a974cdfbf0b1d387ba96f519633fd684b163720dc842d4adb7034d63c292b"
+op_card = 6
+exp_result = 2
