@@ -1,6 +1,6 @@
 # Fog of War
 
-Fog of War is a 2 player card game, played on the EVM using ~ZK~ for a sprinkle of mystery.
+Fog of War is a 2 player card game, played on the EVM using *~ZK*~ for a sprinkle of mystery.
 
 The core game engine is built in Solidity, with the ZK circuits written in Noir.
 
